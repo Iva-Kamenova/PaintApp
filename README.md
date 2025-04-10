@@ -32,7 +32,7 @@ It demonstrates basic graphics handling and user interaction in a desktop enviro
 ## 👨‍💻 Author
 
 Created by Iva Boneva
-School: Technical University of Sofia
+University: Technical University of Sofia
 Course: Object-oriented programming with C# 
 Year: 2024
 
