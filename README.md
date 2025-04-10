@@ -20,7 +20,7 @@ This project is a Windows Forms application developed in C# that allows users to
 
 ## 📚 Educational Context
 
-This project was developed as part of a school/university assignment to practice object-oriented programming and GUI development in C#.  
+This project was developed as part of a university course work to practice object-oriented programming and GUI development in C#.  
 It demonstrates basic graphics handling and user interaction in a desktop environment.
 
 ## 🧠 Learning Goals
